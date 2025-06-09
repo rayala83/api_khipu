@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $apiKey = '6ec5436c-bd95-4ed0-8689-c169b850fedd'; 
+    $apiKey = 'a418272f-1c2a-4683-afc0-8978f4623991'; 
 
     $data = [
         'subject' => 'Pago de prueba',
